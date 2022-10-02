@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int aaa = 99;
+            int a = 99;
             int Flag = 0;
             double x = 0;
             Console.WriteLine("x: -4, 4");
