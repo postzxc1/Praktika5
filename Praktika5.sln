@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Praktika5", "Praktika5\Praktika5.csproj", "{7CF0E293-2A17-49EB-A8F7-A13FAC08123C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktika6", "Praktika6\Praktika6.csproj", "{907DF91A-9964-452D-B402-4AB9810DC5F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktika6", "Praktika6\Praktika6.csproj", "{5E676FCD-5223-4F3A-B73C-79A1810E4974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7CF0E293-2A17-49EB-A8F7-A13FAC08123C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF0E293-2A17-49EB-A8F7-A13FAC08123C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF0E293-2A17-49EB-A8F7-A13FAC08123C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{907DF91A-9964-452D-B402-4AB9810DC5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{907DF91A-9964-452D-B402-4AB9810DC5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{907DF91A-9964-452D-B402-4AB9810DC5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{907DF91A-9964-452D-B402-4AB9810DC5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E676FCD-5223-4F3A-B73C-79A1810E4974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E676FCD-5223-4F3A-B73C-79A1810E4974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E676FCD-5223-4F3A-B73C-79A1810E4974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E676FCD-5223-4F3A-B73C-79A1810E4974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
